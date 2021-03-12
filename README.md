@@ -1,5 +1,5 @@
 # CSE110
-ASU CSE110 Assignments and Labs
+ASU CSE110 Assignments.
 
 ALL FILES WRITTEN ARE PART OF CSE110 AT ASU. Author listed in header of each .java file. 
 
